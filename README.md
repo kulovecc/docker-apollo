@@ -16,6 +16,10 @@
                ignoredInterfaces:
                - docker0
                - veth.*
+   eureka:
+       instance:
+           preferIpAddress: true
+           ip-address: ${ip}
    ```
 
 

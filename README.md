@@ -19,7 +19,7 @@
    eureka:
        instance:
            preferIpAddress: true
-           ip-address: ${ip}
+           ip-address: ${ip}
    ```
 
 

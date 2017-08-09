@@ -23,7 +23,7 @@
    ```
 
 
-2. 按照官方文档配置完成后，执行 ./build.sh 编译打包。
+2. 按照官方文档配置完成后，由于官方版本迭代，需自行修改 Dockerfile 中 VERSION，然后执行 ./build.sh 编译打包。
 
 3. 下载并解压本项目到官方项目根目录，分别编译 apollo-configservice 、apollo-adminservice 、apollo-portal，编译及运行说明可参考下方或目录中 Dockerfile 文件。
 
